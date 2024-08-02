@@ -11,6 +11,7 @@
     "@chromatic-com/storybook": "^1.6.1",
     "@jazim/eslint-config": "workspace:*",
     "@jazim/typescript-config": "workspace:*",
+    "@remixicon/react": "^4.2.0",
     "@storybook/addon-essentials": "^8.2.6",
     "@storybook/addon-interactions": "^8.2.6",
     "@storybook/addon-links": "^8.2.6",

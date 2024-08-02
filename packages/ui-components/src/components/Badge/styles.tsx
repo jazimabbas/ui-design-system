@@ -46,6 +46,7 @@ const badgeColors = {
 };
 
 export const Badge = styled.span<{ $size: BadgeSize; $color: BadgeColor }>`
+  text-align: center;
   border-radius: 9999px;
 
   ${(p) => badgeSizes[p.$size]};
